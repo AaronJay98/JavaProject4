@@ -1,8 +1,8 @@
 package edu.sjsu.macaldo.aaronjay;
 
 
-class PrimeGenerator {
-    PrimeGenerator(int inputInt) {
+public class PrimeGenerator {
+    public PrimeGenerator(int inputInt) {
         endInt = inputInt;
     }
 
